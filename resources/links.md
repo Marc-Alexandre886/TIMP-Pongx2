@@ -56,7 +56,7 @@
 
 - 15 - Lien de Neddy Streamer Overload : https://store.steampowered.com/app/1451940/NEEDY_GIRL_OVERDOSE/
 
-# Membres de la section UX et UI (expérience utilisateur et interface utilisateur)
+# UX et UI (expérience utilisateur et interface utilisateur)
 
 **Temps total : 2 heures et 13 minutes**
 
@@ -66,7 +66,7 @@
 
 - 3 - exemples de redesign d'interfaces de Clair Obscur : Expedition 33 (31 minutes) : https://www.youtube.com/watch?v=unTW8Ndy7y8
 
-# Membres de la section Art
+# Art
 
 **Temps total : 2 heures et 27 minutes**
 
@@ -80,7 +80,7 @@
 
 - 5 - exemples d'un bon pixel art avec Celeste (15 minutes) : https://www.youtube.com/watch?v=0-C7KEsVO9c
 
-# Membres de la section Animation
+# Animation
 
 **Temps total : 48 minutes**
 
@@ -92,7 +92,7 @@
 
 - 4 - exemples de bonnes animations (11 minutes) : https://www.youtube.com/watch?v=qCj9CZoAvFY
 
-# Membres de la section Montage
+# Montage
 
 **Temps total : 51 minutes**
 
@@ -104,7 +104,7 @@
 
 - 4 - les prix en montage (10 minutes) : https://www.youtube.com/watch?v=tt5JjDpD89g
 
-# Tutoriels Godot
+# Godot
 
 **Temps total : 2 heures et 15 minutes**
 
@@ -112,7 +112,7 @@
 
 - 2 - tutoriel sur l'interface 2d sur Godot (1 heure et 17 minutes) : https://www.youtube.com/watch?v=LOhfqjmasi0
 
-# Tutoriels Unity
+# Unity
 
 **Temps total : 20 heures et 43 minutes**
 
@@ -120,7 +120,7 @@
 
 - 2 - tutoriel sur la création d'un jeu-vidéo 2d sur Unity (17 heures et 43 minutes) : https://www.youtube.com/playlist?list=PLUWxWDlz8PYKnrd27LTqOxL2lr3KhEVRT
 
-# Tutoriels Front-end
+# Front-end
 
 **Temps total : 25 heures et 41 minutes**
 
@@ -130,7 +130,7 @@
 
 - 3 - tutoriel sur le JavaScript (12 heures) : https://www.youtube.com/watch?v=lfmg-EJ8gm4
 
-# Tutoriels Back-end
+# Back-end
 
 **Temps total : 7 heures**
 
@@ -138,7 +138,7 @@
 
 - 2 - tutoriel sur le PHP (4 heures) : https://www.youtube.com/watch?v=zZ6vybT1HQs
 
-# Autres tutoriels
+# Autres
 
 **Temps total : 16 heures et 35 minutes**
 
