@@ -20,3 +20,5 @@ Membres pour l'équipe du projet prototype de platformer :
 - Mathéo Sousa (intérêt programmation Unity)
 
 - Izak Laberge (sound design / graphisme)
+
+- Adriano
