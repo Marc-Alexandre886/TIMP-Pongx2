@@ -46,9 +46,9 @@ Reprenons la ligne "int x = 5;"
 
 - En français nous la traduirons comme ceci : « valeur entière sans décimale du nom de "x" qui est égale à une valeur de 5. »
 
-Remarque : Avez-vous vu comment j'ai passé d'une ligne de code à une phrase grammaticale ? EN gros, à mon avis, la prog est une forme de langue
+Remarque : Avez-vous vu comment j'ai passé d'une ligne de code à une phrase grammaticale ? En gros, à mon avis, la prog est une forme de langue à traduire.
 
-Astuce : Si votre language natale n'est pas le français, faites là même méthode avec votre langue la plus familière.
+Astuce : Si votre language natale n'est pas le français, faites la même méthode avec votre langue la plus familière.
 
 ## 3ème étape : analyser la ligne de code
 
@@ -64,14 +64,14 @@ Astuce : Si votre language natale n'est pas le français, faites là même méth
 
 Astuce : n'essayer jamais de tout comprendre, votre but n'est pas, dans cette ligne ci, de comprendre entièrement comment le C# fonctionne, vous devez uniquement les séparer et les vulgarisez avec vos connaissances.
 
-Décortication : "int x = 5;"
+Exemple de décortication avec "int x = 5;"
 
 "
 - int => déclare une variable entière
 					
 - x => nom de la variable
 
-- = 5; => assigne au nom de la variable la valeur numérique de 5
+- = 5; => affecte au nom de la variable la valeur numérique de 5
 
 "
 
@@ -83,9 +83,11 @@ Le but de cette partie est désormais de prendre cette analyse et l'appliquer da
 
 Prenez un moment pour vérifier si votre interprétation vulgarisé resemble à l'explication du prof donné en classe, si c'est le cas, passez à l'étape4 sinon, revérifier votre démarche et recommencez jusqu'à ce qu'elle fonctionne.
 
+**Dernier recours** : Si vous bloquez réelement après tout ces étapes, à ce moment l'IA peut vous servir à mieux clarifier ce qui n'est pas clair.
 
-## 4ème étape : apprendre la ligne et s'aproprier la ligne de code
 
-Dans cette étape, maintenant que vous savez, dans vos mots, comment la ligne de code fonctionne, appliquez là dans d'autres contexte. Vers un moment, vous allez pouvoir l'expliquez clairement à d'autres personnes facilement. si c'est le cas, c'est le signe que vous avez très bien compris ce que cette ligne fait.
+## 4ème étape : l'apprendre et s'aproprier la ligne de code
+
+Dans cette étape, maintenant que vous savez, dans vos mots, comment la ligne de code fonctionne, appliquez là dans d'autres contexte. Vers un moment, vous allez pouvoir l'expliquez clairement à d'autres personnes facilement. Si c'est le cas, c'est le signe que vous avez très bien compris ce que cette ligne fait.
 
 
