@@ -4,7 +4,7 @@ Membres pour l'équipe du projet Pong (à voir) :
 
 - Elie Rojas (game design / design)
 
-- Léonie Cantegrel (assets => sur demande)
+- Léonie Cantegrel (assets => sur demande + lls (musique))
 
 - Étienne Minville (DA => Affinity)
 

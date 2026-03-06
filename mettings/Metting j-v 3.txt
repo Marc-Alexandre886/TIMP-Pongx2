@@ -1,13 +1,44 @@
 - Répartitions de tâches fait ?
 
+pas grave
+
 - Changement de la structure de l'équipe (hypothetic cheminement)
 
 - Décision du premier projet
 
+combiner deux idées (une personne contre : Elie)
+
+mode infini ?
+
+pas de facteur aléatoire (pas trop)?
+
+Manipuler en même temps
+
+système de wrap   
+
+GDD ?
+
+Figma ?
+
+Free to play (Itch.io, GitHub, Steam)
+
+Chercher quelqu'un pour les maths (pas plus loin que le cercle trigo)?
+
+système de score pour niveaux de difficulté
+
 - Structure interne de l'équipe
+
+Voir "structure_équipe_pong^2.jpg" et "exigences_pong^2.jpg"   
 
 - concept d'organization : Le calendrier (pour les projets avec deadline)
 
 - Répartitions des tâches
 
-Quand ? De 12h30 à 14h00, au F-3003, le 24 mars ou le 26 mars
+Quand ? De 12h30 à 14h00, au F-3003, le 26 mars
+
+M-A : Faire la maquette de pong^2 (Godot), faire tutos pour importer scène + fonctionnement de Godot et méthodologie en prog
+
+Zacharie : Avancer le GDD (ensemble)
+
+Léonie : Avancer le GDD (ensemble)
+
