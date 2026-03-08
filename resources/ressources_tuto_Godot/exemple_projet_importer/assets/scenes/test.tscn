@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cypcl0l7v06kv"]
+
+[ext_resource type="Script" uid="uid://ck0yk8gobf4kv" path="res://assets/scriptGD/test_console.gd" id="1_s1xgc"]
+[ext_resource type="PackedScene" path="res://assets/scenes/exemple_scene_importer.tscn" id="2_u05g1"]
+
+[node name="test" type="Node2D" unique_id=747550058]
+script = ExtResource("1_s1xgc")
+
+[node name="Game" parent="." unique_id=596950468 instance=ExtResource("2_u05g1")]
+position = Vector2(9, -3)
